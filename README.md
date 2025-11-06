@@ -15,7 +15,13 @@ A collection of elon-sort implementations in different languages. I’ll expand 
 
 I don’t think I need to explain this, but since we’re here:
 ```bash
-node elon-sort.js
+node .\src\elon-sort.js
+```
+
+or
+
+```bash
+npm run elon-sort
 ```
 
 ## Fun Fact

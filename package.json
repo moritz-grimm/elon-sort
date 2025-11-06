@@ -1,0 +1,20 @@
+{
+  "name": "elon-sort",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "author": "Moritz-Grimm",
+  "description": "Elon-Sort is a next-gen algorithm designed to eventually sort arrays.",
+  "main": "src/elon-sort.js",
+  "scripts": {
+    "elon-sort": "node src/elon-sort.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moritz-Grimm/elon-sort.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Moritz-Grimm/elon-sort/issues"
+  },
+  "homepage": "https://github.com/Moritz-Grimm/elon-sort#readme"
+}
